@@ -1,0 +1,36 @@
+body {
+    font-family: Georgia, sans-serif;
+    background-color: lightslategray;
+}
+
+.las {
+    font-family:'Courier New';
+    color: red;
+}
+
+
+.bag {
+    font-family: "Brush Script MT";
+    color: brown;
+}
+
+
+.pud {
+    font-family: Verdana;
+    color: purple;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Trebuchet MS';
+    font-style: italic;
+    font-weight: bold;
+}
+
